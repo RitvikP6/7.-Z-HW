@@ -7,11 +7,11 @@ CREATE TABLE SchoolFriends (
 
 INSERT INTO SchoolFriends (RollNo, Name, Grade, Section)
 VALUES 
-(1, 'Ritvik', 10, 'A'),
-(2, 'Charan Kumar', 9, 'B'),
-(3, 'Jayanth', 11, 'A'),
-(4, 'Devi Sri Prasad', 10, 'C'),
-(5, 'Poojith Reddy', 12, 'A');
+(1, 'Ritvik', 7, 'D'),
+(2, 'Charan Kumar', 7, 'D'),
+(3, 'Jayanth', 7, 'D'),
+(4, 'Devi Sri Prasad', 7, 'D'),
+(5, 'Poojith Reddy', 7, 'D');
 
 SELECT RollNo, Name 
 FROM SchoolFriends;
